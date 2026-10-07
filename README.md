@@ -17,7 +17,7 @@ FE 개발자. Next.js/React 기반 프로덕트를 만들고, AI 코딩 에이�
 ## 🐍 최근 잔디밭
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gimso2x/gimso2x/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gimso2x/gimso2x/output/github-contribution-grid-snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/gimso2x/gimso2x/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/gimso2x/gimso2x/raw/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/gimso2x/gimso2x/raw/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake" src="https://github.com/gimso2x/gimso2x/raw/output/github-contribution-grid-snake.svg" />
 </picture>
