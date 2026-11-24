@@ -2,9 +2,24 @@
 
 FE 개발자. Next.js/React 기반 프로덕트를 만들고, AI 코딩 에이전트로 개발 파이프라인을 자동화합니다.
 
-- 🔭 최근: 안심케어 B2C 웹 (결제·취소·환불 도메인), 에이전트 오케스트레이션 인프라
-- 🌱 관심: AI 에이전트 하네스, 워크플로우 자동화, 프론트엔드 설계
+- 🔭 최근: Discord에서 부리는 상주 코딩 에이전트(jabbu-pocket)
+- 🌱 관심: AI 에이전트 하네스, 멀티 에이전트 위임·검증, 프론트엔드 설계
 - ⚡ 원칙: 스펙 먼저, 검증된 커밋, 근거 기반 보고
+
+## 🛠 만든 것
+
+| 프로젝트 | 설명 |
+| --- | --- |
+| [jabbu-pocket](https://github.com/gimso2x/jabbu-pocket) | Discord에서 부리는 나만의 상주 코딩 에이전트 — 대화·승인·위임·모니터·자가진단 ([omp](https://github.com/can1357/oh-my-pi) + [herdr](https://github.com/herdrdev/herdr)) |
+| [herdr-android](https://github.com/gimso2x/herdr-android) | herdr-web-ui를 폰에서 쓰는 Android WebView 앱 (Cloudflare Access, FCM 푸시) |
+| [agy-rule](https://github.com/gimso2x/agy-rule) | Gemini / Antigravity 에이전트 룰셋·스킬 묶음 |
+| [so2x-system](https://github.com/gimso2x/so2x-system) | superpowers를 감싸는 프로젝트 로컬 task·dispatch·학습 루프 |
+
+## 🤝 오픈소스 기여
+
+- [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi/pull/19382) — Antigravity CLI 한도 소진을 429로 노출 (merged)
+- [dbc-hbin/omp-superagent](https://github.com/dbc-hbin/omp-superagent/pulls?q=is%3Apr+author%3Agimso2x+is%3Amerged) — Discord 진행 표시·cron·HEAD 큐 개선 등 PR 7건 (merged)
+- [vntrevx/Cataly](https://github.com/vntrevx/Cataly/pull/259) — 오너 전용 Discord 도구 승인 버튼 (open)
 
 ## 📊 GitHub 통계
 
